@@ -1,10 +1,11 @@
 |도메인|참가 인원|
 |-|-|
-|twitter.com|1424|
-|instagram.com|30|
-|naver.com|14|
-|facebook.com|8|
+|twitter.com|1545|
+|instagram.com|36|
+|naver.com|15|
+|facebook.com|10|
 |dcinside.com|4|
+|planet.moe|1|
 |duk.space|1|
 |ruliweb.com|1|
 |twingyeo.kr|1|
@@ -13,6 +14,137 @@
 
 |ID|작성자|작성일|내용|
 |-|-|-|-|
+|1680|코코냣|https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0pmmEJ5X6Q6KBoEwuoHEmDBNEKXMJ9XmpuVMVe26b7wUQXeZt9nytzytLexjtrs96l%26id%3D100005853197|2023-02-18 00:01|
+|1679|Von|https://twitter.com/llzv171/status/1626594760189444099?s=20|2023-02-17 23:53|
+|1678|초록매기몬|https://twitter.com/msels_ff14/status/1626592140045488132?s=20|2023-02-17 23:39|
+|1677|트레이서|https://www.instagram.com/p/CoxBmFEyVuxnlBp4omCW9JLZ1bEQS2qpCpQ3ss0/|2023-02-17 22:59|
+|1676|점지|https://twitter.com/crazy_on_tak/status/1626576988642353153?s=20|2023-02-17 22:39|
+|1675|루백|https://www.instagram.com/p/Cow--96pq3e/?utm_source=ig_web_copy_link|2023-02-17 22:35|
+|1674|아리오테|https://twitter.com/aote_2nd/status/1626574749580292097|2023-02-17 22:30|
+|1673|칼레프|https://twitter.com/kynur_draw/status/1626573649473077249?s=20|2023-02-17 22:26|
+|1672|박하온|https://twitter.com/potato_5160/status/1626572132754010112?s=20|2023-02-17 22:20|
+|1671|리니어스'|https://twitter.com/daddylucy0701/status/1626566507366055942|2023-02-17 21:57|
+|1670|꿀사과|https://twitter.com/Dkcla49/status/1626564822740668424?s=20|2023-02-17 21:51|
+|1669|떡곰|https://twitter.com/onlyhome_/status/1626564114448523264?s=20|2023-02-17 21:48|
+|1668|밥밥이|https://twitter.com/twirl_twirl/status/1626563973574430721|2023-02-17 21:47|
+|1667|탄빵이|https://twitter.com/kogeppang/status/1626561359247970304|2023-02-17 21:37|
+|1666|알카마엘|https://twitter.com/junesock/status/1626558724797263872|2023-02-17 21:26|
+|1665|뀨양|https://twitter.com/HM_Dream_0123/status/1626550944325578754?s=20|2023-02-17 20:55|
+|1664|나오고타|https://twitter.com/Moon__window/status/1626549753025794050|2023-02-17 20:51|
+|1663|시넨스|https://twitter.com/_SINENSIS_/status/1626541723764805632?s=20|2023-02-17 20:19|
+|1662|루셀린|https://twitter.com/hueyeahyo/status/1626528417394098176?s=20|2023-02-17 19:39|
+|1661|기마슈|https://twitter.com/mjkim8774/status/1626529219672178688|2023-02-17 19:29|
+|1660|렌치치|https://twitter.com/paipu_renchi/status/1626528456019427330?s=20|2023-02-17 19:27|
+|1659|캐리어|https://m.blog.naver.com/odg0605/223019237301|2023-02-17 19:24|
+|1658|아예|https://twitter.com/aye_ffxiv/status/1626525700307165184|2023-02-17 19:15|
+|1657|플링플러리|https://twitter.com/gksmlrolling/status/1626523993942659073?s=20|2023-02-17 19:08|
+|1656|아르제이|https://twitter.com/_you_mine/status/1626519635423277062?s=20|2023-02-17 18:51|
+|1655|후란츠바이|https://twitter.com/Rimu_WT/status/1626515993974681601?s=20|2023-02-17 18:38|
+|1654|Junsa|https://twitter.com/junsa_gamef14/status/1626513119672680448?t=XmH5Km84lchHqZB9gmmxxg&s=19|2023-02-17 18:25|
+|1653|퀄리아|https://twitter.com/Redgrapefru1t/status/1626510826332114944|2023-02-17 18:17|
+|1652|니나레이엘|https://twitter.com/Nina05030814/status/1626510297073848320|2023-02-17 18:14|
+|1651|알락오리|https://twitter.com/Alto_KFF14/status/1626500237572603904|2023-02-17 18:09|
+|1650|기린초|https://twitter.com/Kirincho_ff14/status/1626506412041060352|2023-02-17 17:58|
+|1649|천장|https://twitter.com/ff14_cheonjang/status/1626505184812888064?s=20|2023-02-17 17:54|
+|1648|더쿠부엉|https://twitter.com/furyff14/status/1626501870339629057?s=46&t=XGUWxWPXFk5CF826zNzIvw|2023-02-17 17:42|
+|1647|Zena|https://twitter.com/ZENA_ffxiv/status/1626496037463654400?s=20|2023-02-17 17:17|
+|1646|작은와규|https://twitter.com/ilove_AOE/status/1626490544590573568|2023-02-17 16:55|
+|1645|명복|https://twitter.com/cursedbock/status/1626489842761871360?s=20|2023-02-17 16:53|
+|1644|주효|https://twitter.com/hyoju_121/status/1626483681526435847?s=20|2023-02-17 16:28|
+|1643|Bonnat|https://twitter.com/powd2y/status/1626461879714615297|2023-02-17 15:02|
+|1642|메리페|https://twitter.com/bonbonmaro/status/1626461469025132544?s=20|2023-02-17 15:00|
+|1641|묘운|https://twitter.com/FF14_52/status/1626459371826978816?s=20|2023-02-17 14:52|
+|1640|그레이브|https://twitter.com/marin_FF14_/status/1626454757912223744?s=20|2023-02-17 14:33|
+|1639|탱귤'|https://twitter.com/taengpicture/status/1626452032772263937?s=20|2023-02-17 14:24|
+|1638|빛날찬|https://twitter.com/well_bing_/status/1626450605572251650|2023-02-17 14:17|
+|1637|파르바네|https://twitter.com/oceanfog777/status/1626450303989190657?s=20|2023-02-17 14:15|
+|1636|담아|https://twitter.com/dpsy_S2/status/1626450117539799040?t=3CerGI4Y1tyo4fNjdDT7rQ&s=19|2023-02-17 14:15|
+|1635|헤테르|https://twitter.com/CodeAstarte/status/1626449165843832833|2023-02-17 14:11|
+|1634|이구아나존스|https://twitter.com/psjtjdwns703/status/1625900922131091456|2023-02-17 14:03|
+|1633|카틀레아|https://twitter.com/ararar_Arumone/status/1626435962657198081|2023-02-17 13:48|
+|1632|로윤|https://twitter.com/_Royun/status/1626440822135848960?t=Qa4BhU8hfFKQz-HJGTw6uQ&s=19|2023-02-17 13:41|
+|1631|레아메|https://planet.moe/@ardeu/109878205832599862|2023-02-17 13:34|
+|1630|혜둥|https://twitter.com/HyeDoong_ff/status/1626437850475667456?s=20|2023-02-17 13:26|
+|1629|라떼떼라떼|https://twitter.com/lattete_ff14/status/1626435836526071813?s=20|2023-02-17 13:18|
+|1628|달빛혜성|https://twitter.com/MLcomet/status/1626434673697239040?s=20|2023-02-17 13:13|
+|1627|국연|https://www.instagram.com/p/Cov99CML1ER/?igshid=YmMyMTA2M2Y=|2023-02-17 13:09|
+|1626|오쿠라냠냠|https://twitter.com/E1FE0O0/status/1626428770109513728?t=4PvZXmige0waSqff80GJvw&s=19|2023-02-17 12:50|
+|1625|해헤|https://twitter.com/FF14_Heaheh/status/1626104296705257472?s=20|2023-02-17 12:36|
+|1624|가이아스|https://twitter.com/hikasen_c/status/1626422956275675136?s=20|2023-02-17 12:28|
+|1623|너를데려가주지|https://twitter.com/abel_comission/status/1626421959461568513?s=20|2023-02-17 12:23|
+|1622|시그룬|https://twitter.com/_OrangeO/status/1626421251077214210|2023-02-17 12:21|
+|1621|아리아드나|https://www.instagram.com/p/Cov4XtYL3Qn/?utm_source=ig_web_copy_link|2023-02-17 12:18|
+|1620|Binah|https://twitter.com/coffee__backup/status/1626419959063773184?s=20|2023-02-17 12:17|
+|1619|절대당근김당근|https://www.facebook.com/rlaruddyd1|2023-02-17 11:30|
+|1618|햄구피|https://twitter.com/Rim_kr_B/status/1626402907766784001|2023-02-17 11:07|
+|1617|블랙베리초코쿠키|https://twitter.com/blackverry_/status/1626399891168849922?s=20|2023-02-17 10:55|
+|1616|라시에빌론|https://twitter.com/Marmot_mabi/status/1626394850907271169|2023-02-17 10:35|
+|1615|귤빵|https://twitter.com/mandarin_ipapp/status/1626385830389612546?s=20|2023-02-17 09:59|
+|1614|라'메르|https://twitter.com/choco_la_mer/status/1626373565531697152?s=20|2023-02-17 09:11|
+|1613|벌쭈|https://twitter.com/thwawy_2/status/1626371638072844288?s=20|2023-02-17 09:03|
+|1612|필언|https://twitter.com/FF14_509/status/1626366218503610368?t=g1cEolATra0y0TyInz4abQ&s=19|2023-02-17 08:41|
+|1611|홍차양갱|https://twitter.com/mabinogiwolf/status/1626358724460949504?t=YRHOz_xkQAPqyep7rVrrLA&s=19|2023-02-17 08:13|
+|1610|뵤뵤|https://twitter.com/S_num_/status/1626328368286404608?s=20|2023-02-17 06:11|
+|1609|서예리|https://twitter.com/yeri___ff14/status/1626325596623216641?s=46&t=xaeYxHDsCDe-vchZLS6_Aw|2023-02-17 06:01|
+|1608|Donghyang|https://twitter.com/dong_hyang_FF14/status/1626315052004564992|2023-02-17 05:18|
+|1607|아사히쿠|https://twitter.com/somelost1/status/1626293176448475136?s=20|2023-02-17 03:52|
+|1606|박초감|https://twitter.com/Choqototo/status/1626292030271029248|2023-02-17 03:47|
+|1605|히지리|https://twitter.com/My_Cloud_Lemon/status/1626287000012886016?t=ExEnz56-QUEph41Tq_6cEQ&s=19|2023-02-17 03:27|
+|1604|충직한암흑기사|https://twitter.com/starlight_uju/status/1626287009324204032?s=20|2023-02-17 03:27|
+|1603|Rayyan|https://twitter.com/13buke_ff14/status/1626285662994567168|2023-02-17 03:22|
+|1602|꼴깍|https://twitter.com/rwa_ff14/status/1626285191206670336?t=i2B6P9sMs4D7k8W1WmW9JA&s=19|2023-02-17 03:20|
+|1601|데이먼칼데이든|https://twitter.com/Nabaekgom/status/1626281597313114113?t=_uktlaYQ-b9A1k-DylTvfw&s=19|2023-02-17 03:06|
+|1600|키츄|https://twitter.com/p5stswimmer/status/1626280211041107968|2023-02-17 03:01|
+|1599|뽀뽀밍|https://twitter.com/pmo_0m0/status/1626279245889822721|2023-02-17 02:58|
+|1598|테움|https://twitter.com/musiru77/status/1626276948904386560|2023-02-17 02:48|
+|1597|추적'육십인분|https://twitter.com/Like_Poo_/status/1626276371243868160|2023-02-17 02:45|
+|1596|히비스커스로젤|https://twitter.com/SeRyeom/status/1626273838349815808?s=20&t=oI5P7cGAb2apUcMWRcH5Pg|2023-02-17 02:35|
+|1595|강신'|https://twitter.com/JOOWOOWOOK/status/1626273890514395138?s=20|2023-02-17 02:34|
+|1594|코크테일|https://twitter.com/Vodka__game/status/1626262024912277505|2023-02-17 01:47|
+|1593|로쿠|https://twitter.com/Roku_ffxiv/status/1626248728679178241|2023-02-17 01:30|
+|1592|엘라헤'|https://twitter.com/R0N4N_S0M/status/1626252845162045440?s=20|2023-02-17 01:11|
+|1591|차슈카|https://twitter.com/chashqa/status/1626245067500576768?s=20 |2023-02-17 00:40|
+|1590|죠타로'|https://twitter.com/yeonff14_/status/1626240072445198337?s=20|2023-02-17 00:20|
+|1589|플레어|https://twitter.com/fkd_dl/status/1625484539891179521?s=20|2023-02-17 00:14|
+|1588|지클린데설리번|https://twitter.com/_b13/status/1626233064673382403|2023-02-17 00:12|
+|1587|예프리|https://twitter.com/LepreFF14/status/1626235598637006852?s=20|2023-02-17 00:02|
+|1586|백설영|https://twitter.com/bamnamoo030/status/1626235422589460489?s=20|2023-02-17 00:02|
+|1585|시쟈나'벤|https://twitter.com/Tanzanitte_ff14/status/1626231166197194753?s=20|2023-02-16 23:45|
+|1584|진백|https://twitter.com/brjy_/status/1626229574429454339?s=20|2023-02-16 23:40|
+|1583|Chris|https://twitter.com/ff14_chris_/status/1626229514165682176?s=20|2023-02-16 23:39|
+|1582|실온|https://twitter.com/FF14_Mong/status/1626226923608371202?s=20|2023-02-16 23:28|
+|1581|구화|https://twitter.com/zizon_amgi/status/1626224084349767687?s=20|2023-02-16 23:17|
+|1580|이론적주사위|https://twitter.com/theoreticaldice/status/1626224139420958724|2023-02-16 23:17|
+|1578|타마론|https://twitter.com/Warrior_Cranber/status/1626223567699603457?s=20|2023-02-16 23:15|
+|1577|국어선생|https://twitter.com/ff14_kr/status/1626222195352674308?s=46&t=9Sdb28rzfnk468CvFK3R-A|2023-02-16 23:10|
+|1576|랑야'|https://twitter.com/Lang_ya_/status/1626219400121692162?t=fGqEHBy9D0PEx_aq3lFw1Q&s=19|2023-02-16 22:58|
+|1575|나아비이|https://twitter.com/dmh04166/status/1625526855888674817|2023-02-16 22:51|
+|1574|로딩도와줘|https://twitter.com/Neresi_/status/1626217540878995466?s=20|2023-02-16 22:51|
+|1573|티그리즈|https://www.instagram.com/p/CoubjPDrYGs/?utm_source=ig_web_copy_link|2023-02-16 22:48|
+|1572|겡이|https://twitter.com/Geng_ff14/status/1626215457375272964|2023-02-16 22:42|
+|1571|카르민|https://twitter.com/FF14_626/status/1626212590123900929?s=20|2023-02-16 22:32|
+|1570|케언곰|https://twitter.com/cag_ff14/status/1626211134171914247|2023-02-16 22:25|
+|1569|토요|https://twitter.com/tomoyo1popoto/status/1626211010792267776?s=20|2023-02-16 22:25|
+|1568|곽성현|https://twitter.com/FFXIV_hyun/status/1626208206329618434?s=20&t=TqS90oBsxhrRookbxaMtmg|2023-02-16 22:13|
+|1567|카일''|https://twitter.com/GAME_KJHJ/status/1626207875113824256|2023-02-16 22:12|
+|1566|음표|https://twitter.com/umm_gameB2/status/1626201261333946368?s=20|2023-02-16 21:46|
+|1565|굼굼|https://twitter.com/bam_279/status/1626196508566753283?s=20|2023-02-16 21:27|
+|1564|브리니클|https://twitter.com/timtim2379/status/1626194624808370177|2023-02-16 21:20|
+|1563|페리엔|https://twitter.com/BP_FF14/status/1626194296234979333?s=20|2023-02-16 21:19|
+|1562|소금이모래알같아|https://twitter.com/salt_sand_/status/1626193405872316416?s=20&t=MTuE8HMJqjeG0yhNof78nA|2023-02-16 21:15|
+|1561|데비아|https://twitter.com/yangs_game/status/1626192668643696641?s=20|2023-02-16 21:12|
+|1560|안단테노로히|https://twitter.com/comumoa_FF/status/1626187874789130245?s=20|2023-02-16 20:56|
+|1559|네맘에불을질러볼까|https://www.instagram.com/p/CouOAt9yHD2/?utm_source=ig_web_copy_link|2023-02-16 20:49|
+|1558|Svhd|https://twitter.com/dhdhwhfk_/status/1626186250138030080?s=20|2023-02-16 20:46|
+|1556|초람|https://twitter.com/RAM_ff_/status/1626185667725385729?s=20|2023-02-16 20:45|
+|1555|필로우|https://twitter.com/qnsshfhdna/status/1626183419150630912?s=20|2023-02-16 20:37|
+|1554|산쥐|https://twitter.com/llk_ddw/status/1626182954388172801?s=20&t=LNhSgMl5oCuQDWrQo4McIQ|2023-02-16 20:33|
+|1553|오밀조밀|https://twitter.com/omjm_daily/status/1626176887600091136|2023-02-16 20:09|
+|1552|포리링|https://twitter.com/panacea_scp/status/1626173977403195392?s=20|2023-02-16 20:03|
+|1551|제의|https://twitter.com/ffxiv_jeui/status/1626170902986756103?s=20|2023-02-16 19:47|
+|1550|듈기|https://twitter.com/DYULGI_SAN/status/1626168007813922816?s=20|2023-02-16 19:34|
+|1548|솔이|https://twitter.com/Sol2inFF14/status/1626165350999166980?s=20|2023-02-16 19:23|
+|1547|민서'|https://twitter.com/hor1zon37/status/1626160997231919105?s=20|2023-02-16 19:07|
 |1546|히페|https://twitter.com/gene6506/status/1626155796496273408|2023-02-16 18:46|
 |1545|빡토|https://twitter.com/APAN_FF14/status/1626150625779277824?s=20|2023-02-16 18:25|
 |1544|유프|https://twitter.com/Yufe_O/status/1626148378802536449?s=20|2023-02-16 18:17|
