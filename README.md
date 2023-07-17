@@ -33,7 +33,7 @@
 |mnetwork.co.kr|1|
 |muri.network|1|
 
-|ID|작성자|작성일|내용|
+|ID|작성자|내용|작성일|
 |-|-|-|-|
 |20026|슈뽀|https://twitter.com/_ovo_pp/status/1678418735105802242?s=20|2023-07-10 23:59|
 |20025|왁게|https://twitter.com/fndht_3/status/1678418247392043010|2023-07-10 23:59|
