@@ -1,8 +1,8 @@
 name: update
 
 on:
-  schedule:
-    - cron: "14 * * * *"
+  repository_dispatch:
+    types: [event]
   workflow_dispatch:
 
 jobs:
